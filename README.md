@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como Tester de Software
-- 🌱 Estudando Java e Python
+- 🌱 Estudando Javascript e Python
 
  <div>
   <a href="https://github.com/bertassilaura">
