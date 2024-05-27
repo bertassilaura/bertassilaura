@@ -1,8 +1,8 @@
 ### Olá, meu nome é Laura! 👋
 
 
-- 🔭 Hoje trabalho como Analista de Sistemas!
-- 🌱 Estudando Javascript e Python
+- 🔭 Atuo como Product Owner
+- 🌱 Estudando Flutter
 
  <div>
   <a href="https://github.com/bertassilaura">
@@ -21,7 +21,7 @@
   ##
 
 <div>
-  <a href="https://www.instagram.com/laura_bertassi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/laurabertassi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:bertassilaura@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laurabertassi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
