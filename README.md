@@ -1,8 +1,7 @@
 ### Olá, meu nome é Laura! 👋
 
-
 - 🔭 Atuo como Product Owner
-- 🌱 Estudando Flutter
+- 🌱 Estudando Metodologias ágeis e Gestão de Projetos
 
  <div>
   <a href="https://github.com/bertassilaura">
