@@ -2,6 +2,7 @@
 
 - 🔭 Atuo como Product Owner
 - 🌱 Estudando Metodologias ágeis e Gestão de Projetos
+- Formada em Sistemas de Informação pela Universidade Federal de Santa Catarina
 
  <div>
   <a href="https://github.com/bertassilaura">
